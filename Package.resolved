@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Array_UInt8HexExt",
+        "repositoryURL": "https://github.com/esc-ape/swift-array_uint8-hex-ext.git",
+        "state": {
+          "branch": null,
+          "revision": "e65170d1cf02032e59a189635f1a309e2b7ba320",
+          "version": "1.0.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
