@@ -1,3 +1,3 @@
 # DataHexExt
 
-A description of this package.
+Extension methods to convert `Data` to and from hex string
