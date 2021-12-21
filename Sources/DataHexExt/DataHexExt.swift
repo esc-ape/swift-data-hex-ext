@@ -6,7 +6,7 @@ extension Data {
         self.init(Array<UInt8>(hex: hex))
     }
     
-    public func toHexString(_ denotation: Bool) -> String {
+    public func toHexString(_ denotation: Bool = false) -> String {
         Array(self).toHexString(denotation)
     }
 }
